@@ -1,0 +1,46 @@
+// https://vue-color-avatar.vercel.app/
+{
+    "gender": "male",
+    "wrapperShape": "circle",
+    "background": {
+        "color": "linear-gradient(-135deg, #fccb90, #d57eeb)"
+    },
+    "widgets": {
+        "face": {
+            "shape": "base"
+        },
+        "tops": {
+            "shape": "danny",
+            "fillColor": "#F48150"
+        },
+        "ear": {
+            "shape": "detached"
+        },
+        "earrings": {
+            "shape": "none"
+        },
+        "eyebrows": {
+            "shape": "eyelashesup"
+        },
+        "eyes": {
+            "shape": "smiling"
+        },
+        "nose": {
+            "shape": "pointed"
+        },
+        "glasses": {
+            "shape": "none"
+        },
+        "mouth": {
+            "shape": "laughing"
+        },
+        "beard": {
+            "shape": "none",
+            "zIndex": 99
+        },
+        "clothes": {
+            "shape": "open",
+            "fillColor": "#FFEDEF"
+        }
+    }
+}
